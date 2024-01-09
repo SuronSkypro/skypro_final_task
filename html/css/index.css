@@ -1,0 +1,28 @@
+.logo {
+	 float: left;
+}
+ 
+ nav ul {
+	 margin: 0;
+	 padding: 0;
+	 list-style: none;
+	 
+}
+ nav li {
+	 display: inline-block;
+	 
+}
+ body {
+	 background: #000000;
+	 color: #fff;
+}
+ a {
+	 color: White;
+	 font-size: 24px;
+	 
+ 
+}
+ h1 {
+	 color: blue
+}
+ 
